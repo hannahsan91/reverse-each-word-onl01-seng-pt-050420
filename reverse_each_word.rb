@@ -17,3 +17,9 @@ def reverse_each_word(sentence1, sentence2)
     puts "Verifying that collect is being called"
   end
 end
+
+def reverse_each_word(sentence)
+  words_array = sentence1, sentence2
+  new_array = []
+  
+  
