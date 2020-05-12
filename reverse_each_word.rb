@@ -11,6 +11,6 @@ def reverse_each_word(sentence2)
 end
 
 def reverse_each_word(sentence1)
-  reverse_each_word.map do |sentence1|
+  reverse_each_word.collect do |sentence1|
   end
 end
