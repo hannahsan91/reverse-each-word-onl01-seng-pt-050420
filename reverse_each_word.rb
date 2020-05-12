@@ -14,5 +14,6 @@ end
 
 def reverse_each_word(sentence1)
   reverse_each_word.collect do |sentence1|
+    puts "Verifying that collect is being called"
   end
 end
