@@ -9,3 +9,8 @@ def reverse_each_word(sentence2)
   reverse_each_word.each do |sentence2|
   end
 end
+
+def reverse_each_word(sentence1)
+  reverse_each_word.map do |sentence1|
+  end
+end
