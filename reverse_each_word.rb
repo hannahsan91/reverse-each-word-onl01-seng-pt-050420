@@ -12,7 +12,7 @@ def reverse_each_word(sentence2)
   end
 end
 
-def reverse_each_word(sentence1)
+def reverse_each_word(sentence1, sentence2)
   reverse_each_word.collect do |sentence1|
     puts "Verifying that collect is being called"
   end
