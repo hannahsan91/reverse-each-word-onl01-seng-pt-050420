@@ -6,5 +6,6 @@ end
 
 sentence2 = "Hi again, just making sure it's reversed!"
 def reverse_each_word(sentence2)
-end
+  reverse_each_word.each do |sentence2|
+  end
 end
